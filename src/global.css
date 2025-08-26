@@ -1,0 +1,41 @@
+* {
+  font-family: 'Segoe UI';
+  font-size: 12px;
+}
+
+.container {
+    border-top: 1px solid lightgray;
+    margin: 0 auto;
+    width: 95vw;
+    padding: 0.5vw
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: 400;
+    margin-left: 1.5vw
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 350;
+}
+
+.input-field {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    width: 180px;
+    height: 45px;
+    border: 1px solid lightgray;
+}
+
+button {
+    height: 40px;
+    border: 1px solid #999;
+    border-radius: 0px;
+    background-color: #ececec;
+}
+button:hover {
+    background-color: lightgray;
+}
