@@ -4,7 +4,7 @@
 1. Instale o Node.js (recomendado versão 18 ou superior).
 2. No terminal, navegue até a pasta do projeto:
 	```powershell
-	cd DemonstrativoAfericao
+	cd DemonstrativoDeAfericao
 	```
 3. Instale as dependências:
 	```powershell
